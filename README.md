@@ -9,7 +9,7 @@ PythonやVBAを使って、身近な課題の解決や業務効率化に取り�
 
 - Python：個人制作・学習中
 - VBA：Excel業務の自動化・効率化
-- Excel：関数、データ管理、帳票作成
+- Excel：関数、データ管理
 - AutoHotkey：操作の自動化
 
 ## 💻 Projects
